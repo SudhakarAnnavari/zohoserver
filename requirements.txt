@@ -7,3 +7,4 @@ oauthlib==3.2.2
 protobuf==5.27.1
 psycopg2==2.9.9
 Requests==2.32.3
+gunicorn
